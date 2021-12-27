@@ -1,0 +1,17 @@
+C:\Users\DELL\source\repos\Gym System\Gym System\bin\Debug\netcoreapp3.1\Gym System.exe
+C:\Users\DELL\source\repos\Gym System\Gym System\bin\Debug\netcoreapp3.1\Gym System.deps.json
+C:\Users\DELL\source\repos\Gym System\Gym System\bin\Debug\netcoreapp3.1\Gym System.runtimeconfig.json
+C:\Users\DELL\source\repos\Gym System\Gym System\bin\Debug\netcoreapp3.1\Gym System.runtimeconfig.dev.json
+C:\Users\DELL\source\repos\Gym System\Gym System\bin\Debug\netcoreapp3.1\Gym System.dll
+C:\Users\DELL\source\repos\Gym System\Gym System\bin\Debug\netcoreapp3.1\Gym System.pdb
+C:\Users\DELL\source\repos\Gym System\Gym System\obj\Debug\netcoreapp3.1\Gym System.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\Gym System\Gym System\obj\Debug\netcoreapp3.1\Gym_System.loginform.resources
+C:\Users\DELL\source\repos\Gym System\Gym System\obj\Debug\netcoreapp3.1\Gym_System.Properties.Resources.resources
+C:\Users\DELL\source\repos\Gym System\Gym System\obj\Debug\netcoreapp3.1\Gym System.csproj.GenerateResource.cache
+C:\Users\DELL\source\repos\Gym System\Gym System\obj\Debug\netcoreapp3.1\Gym System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\Gym System\Gym System\obj\Debug\netcoreapp3.1\Gym System.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\Gym System\Gym System\obj\Debug\netcoreapp3.1\Gym System.AssemblyInfo.cs
+C:\Users\DELL\source\repos\Gym System\Gym System\obj\Debug\netcoreapp3.1\Gym System.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\Gym System\Gym System\obj\Debug\netcoreapp3.1\Gym System.dll
+C:\Users\DELL\source\repos\Gym System\Gym System\obj\Debug\netcoreapp3.1\Gym System.pdb
+C:\Users\DELL\source\repos\Gym System\Gym System\obj\Debug\netcoreapp3.1\Gym System.genruntimeconfig.cache
